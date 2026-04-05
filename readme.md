@@ -111,3 +111,19 @@ All API requests are prefixed with `/api`. Authentication is required for most e
 ### 🛡 Authorization Header
 For protected routes, include the JWT token in the request header:
 `Authorization: Bearer <your_jwt_token>`
+
+### 🔑 Demo Credentials
+
+To explore the platform's different roles, use the following credentials:
+
+### 👤 User Account
+- **Email:** `user@eventix.com`
+- **Password:** `password123`
+- **Role:** Browse events, book tickets, and view personal dashboard.
+
+### 🛡️ Admin Account
+- **Email:** `admin@eventix.com`
+- **Password:** `password123`
+- **Role:** Full access to the Analytics Dashboard, creating/editing events, and managing all booking requests.
+
+---
